@@ -9,12 +9,12 @@ auto_input_pwd(){
 
 }
 auto_input_pwd
-echo '>>>>授权....'
-sudo chmod -R 777 ./.git
-echo '>>>>删除Ｇit....'
-sudo rm -r ./.git
-echo '>>>>初始化Git....'
-git init
+#echo '>>>>授权....'
+#sudo chmod -R 777 ./.git
+#echo '>>>>删除Ｇit....'
+#sudo rm -r ./.git
+#echo '>>>>初始化Git....'
+##git init
 echo '>>>>添加至Git缓存区....'
 git add --all
 echo '>>>>提交....'
