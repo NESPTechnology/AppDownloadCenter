@@ -2,4 +2,4 @@
 
 App Name|Package Name|Android Phone|Android Pad|IOS Phone|IOS Pad|Windows|Linux|Mac OSX
 :-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
-**FishMovie**/小丑鱼|com.nesp.movie|✔|✘|✘|✘|✘|✘|✘
+FishMovie /小丑鱼|com.nesp.movie|✔|✘|✘|✘|✘|✘|✘
